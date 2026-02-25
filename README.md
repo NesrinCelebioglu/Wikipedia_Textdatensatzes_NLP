@@ -4,7 +4,6 @@
 Dieses Projekt demonstriert **Textvorverarbeitung**, **Merkmalextraktion** und **Visualisierung** von Textdaten mit Python.  
 Der Datensatz enthält Rohtext (z. B. Wikipedia-Artikel) und das Ziel ist es, die häufigsten Begriffe zu analysieren, seltene Wörter zu entfernen und die Daten visuell darzustellen.
 
-
 ## Projektschritte
 
 ### Schritt 1: Textvorverarbeitung
@@ -18,7 +17,6 @@ Der Datensatz enthält Rohtext (z. B. Wikipedia-Artikel) und das Ziel ist es, 
 - Tokenisierung der Texte
 - Lemmatisierung der Wörter
 
----
 
 ### Schritt 2: Analyse & Visualisierung
 - **Wortfrequenzen berechnen**:
@@ -26,7 +24,6 @@ Der Datensatz enthält Rohtext (z. B. Wikipedia-Artikel) und das Ziel ist es, 
 - **Balkendiagramm** der häufigsten Wörter erstellen
 - **WordCloud** zur Visualisierung aller Wörter oder der Top-N Wörter
 
----
 
 ### Schritt 3: Alles in einer Funktion
 Eine Funktion `preprocess_and_visualize` wurde erstellt, die in einem Schritt:
