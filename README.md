@@ -4,7 +4,6 @@
 Dieses Projekt demonstriert **Textvorverarbeitung**, **Merkmalextraktion** und **Visualisierung** von Textdaten mit Python.  
 Der Datensatz enthält Rohtext (z. B. Wikipedia-Artikel) und das Ziel ist es, die häufigsten Begriffe zu analysieren, seltene Wörter zu entfernen und die Daten visuell darzustellen.
 
----
 
 ## Projektschritte
 
